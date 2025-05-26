@@ -1,3 +1,15 @@
+// ==UserScript==
+// @name         FTPlace - 42LSA
+// @version      0.2
+// @description  Letz show which is the best 42 student association.
+// @author       gpochon
+// @match        https://ftplace.42lausanne.ch/*
+// @icon         https://raw.githubusercontent.com/gabrielle-pch/CFLSCRIPT/main/icon.jpg // Use raw for icon too
+// @grant        GM_info
+// @connect      raw.githubusercontent.com
+// @downloadURL  https://raw.githubusercontent.com/gabrielle-pch/CFLSCRIPT/main/cestlacfl.js // Assuming this is the final file name
+// @updateURL    https://raw.githubusercontent.com/gabrielle-pch/CFLSCRIPT/main/cestlacfl.js
+// ==/UserScript==
 
 (async function () {
     'use strict';
