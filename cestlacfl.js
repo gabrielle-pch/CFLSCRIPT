@@ -24,7 +24,7 @@
 
     // --- Constants and Options ---
     const UPDATE_URL = GM_info.script.updateURL;
-    const OVERLAY_URL_BASE = "https://raw.githubusercontent.com/gabrielle-pch/CFLSCRIPT/refs/heads/main/overlay-export.png";
+    const OVERLAY_URL_BASE = "https://raw.githubusercontent.com/gabrielle-pch/CFLSCRIPT/main/overlay-export.png";
     const VERSION_URL = "https://raw.githubusercontent.com/gabrielle-pch/CFLSCRIPT/main/version.json";
     const FTPLACE_URL = "https://ftplace.42lausanne.ch/";
 
