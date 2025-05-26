@@ -1,5 +1,6 @@
 // ==UserScript==
-// @name         FTPlace - 42LSA
+// @name         FTPlace - 42LSAV2
+// @namespace    https://github.com/gabrielle-pch/CFLSCRIPT
 // @version      0.2
 // @description  Letz show which is the best 42 student association.
 // @author       gpochon
